@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created by amaya 11.4.7, see http://www.w3.org/Amaya/ -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 538 375"
+     width="538" height="375">
+  <defs>
+    <marker xmlns="http://www.w3.org/2000/svg" id="Arrow1Mstart"
+            viewBox="0 0 10 10" refX="10" refY="0" markerUnits="strokeWidth"
+            markerWidth="6" markerHeight="20" orient="auto" style="fill: #3358f4">
+      <path d="M 5,0 L 0,10 10,10 z"
+            transform="rotate(90,2.5,-2.5) scale(1,-1) "/>
+    </marker>
+    <marker xmlns="http://www.w3.org/2000/svg" id="Arrow1Mend"
+            viewBox="0 0 10 10" refX="0" refY="5" markerUnits="strokeWidth"
+            markerWidth="6" markerHeight="10" orient="auto" style="fill: #3358f4">
+      <path d="M 5,0 L 0,10 10,10 z" transform="rotate(90,5,5) "/>
+    </marker>
+  </defs>
+  <rect x="210px" y="92px" width="301px" height="33px"
+        style="   stroke: none;fill:#c5d3f6" transform="translate(-178,-68) "/>
+  <rect x="210px" y="94px" width="189px" height="29px"
+        style="   stroke: none;fill:#cbfeff" transform="translate(-178,-4) "/>
+  <rect x="210px" y="94px" width="300px" height="29px"
+        style="   stroke: none;fill:#dfa9a8" transform="translate(-174,248) "/>
+  <rect x="210px" y="94px" width="300px" height="29px"
+        style="   stroke: none;fill:#efbfc7" transform="translate(-174,185) "/>
+  <rect x="210px" y="93px" width="300px" height="29px"
+        style="   stroke: none;fill:#f8e0c7" transform="translate(-175,121) "/>
+  <line marker-start="url(#Arrow1Mstart)" marker-end="url(#Arrow1Mend)"
+        x1="373" y1="60" x2="373" y2="73"
+        style="   stroke-opacity: 1;fill: none;stroke:#3358f4;stroke-width: 1.5"
+        transform="translate(-189,194) "/>
+  <line marker-start="url(#Arrow1Mstart)" marker-end="url(#Arrow1Mend)"
+        x1="373" y1="60" x2="373" y2="73"
+        style="   stroke-opacity: 1;fill: none;stroke:#3358f4;stroke-width: 1.5"
+        transform="translate(-250,132) "/>
+  <line marker-start="url(#Arrow1Mstart)" marker-end="url(#Arrow1Mend)"
+        x1="373" y1="60" x2="373" y2="73"
+        style="   stroke-opacity: 1;fill: none;stroke:#3358f4;stroke-width: 1.5"
+        transform="translate(-97,131) "/>
+  <line marker-start="url(#Arrow1Mstart)" marker-end="url(#Arrow1Mend)"
+        x1="373" y1="60" x2="373" y2="73"
+        style="   stroke-opacity: 1;fill: none;stroke:#3358f4;stroke-width: 1.5"
+        transform="translate(-190,259) "/>
+  <rect x="210px" y="94px" width="189px" height="29px"
+        style="   stroke: none;fill:#ffefcb" transform="translate(-177,59) "/>
+  <rect x="210px" y="94px" width="111px" height="29px"
+        style="   stroke: none;fill:#e7f3cf" transform="translate(16,60) "/>
+  <line marker-start="url(#Arrow1Mstart)" marker-end="url(#Arrow1Mend)"
+        x1="373" y1="60" x2="373" y2="73"
+        style="   stroke-opacity: 1;fill: #3358f4;stroke:#3358f4;stroke-width: 1.5"
+        transform="translate(-250,7) "/>
+  <line marker-start="url(#Arrow1Mstart)" marker-end="url(#Arrow1Mend)"
+        x1="373" y1="60" x2="373" y2="73"
+        style="   stroke-opacity: 1;fill: #3358f4;stroke:#3358f4;stroke-width: 1.5"
+        transform="translate(-250,68) "/>
+  <line marker-start="url(#Arrow1Mstart)" marker-end="url(#Arrow1Mend)"
+        x1="372" y1="35" x2="373" y2="110"
+        style="   stroke-opacity: 1;fill: #3358f4;stroke:#3358f4;stroke-width: 1.5"
+        transform="translate(-95,33) "/>
+  <line marker-start="url(#Arrow1Mstart)" marker-end="url(#Arrow1Mend)"
+        x1="372" y1="35" x2="371" y2="300"
+        style="   stroke-opacity: 1;fill: #3358f4;stroke:#3358f4;stroke-width: 1.5"
+        transform="translate(-9,31) "/>
+  <text x="133px" y="48px" style="font-family: Arial">Machine learning</text>
+  <text x="58px" y="110px" style="font-family: Arial">Distributed systems</text>
+  <text x="96px" y="173px" style="font-family: Arial">Network</text>
+  <text x="245px" y="173px" style="font-family: Arial">Databases</text>
+  <text x="173px" y="235px" style="font-family: Arial">OS</text>
+  <text x="150px" y="300px" style="font-family: Arial">Hardware</text>
+  <text x="150px" y="361px" style="font-family: Arial">Electricity</text>
+  <text x="439px" y="142px" transform="rotate(90,420,120) scale(1) "
+style="font-family: Arial">Requirements</text>
+</svg>
